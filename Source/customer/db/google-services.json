@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "608001361439",
+    "firebase_url": "https://cafeprint-70fd3.firebaseio.com",
+    "project_id": "cafeprint-70fd3",
+    "storage_bucket": "cafeprint-70fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608001361439:android:c941b24ef54d5d81cfb72a",
+        "android_client_info": {
+          "package_name": "com.print.cafeprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608001361439-mlcclhjb3bl09p932a1gitp3tpc4qu8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMvL1G-RPvnjOLymv0Yeu899xAyTgh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608001361439-mlcclhjb3bl09p932a1gitp3tpc4qu8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608001361439:android:0784fcbcc19bd190cfb72a",
+        "android_client_info": {
+          "package_name": "com.print.cafeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608001361439-mlcclhjb3bl09p932a1gitp3tpc4qu8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMvL1G-RPvnjOLymv0Yeu899xAyTgh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608001361439-mlcclhjb3bl09p932a1gitp3tpc4qu8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
